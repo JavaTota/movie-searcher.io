@@ -1,3 +1,27 @@
+🎬 Movie Searcher
+
+A modern movie discovery web application built with React and Vite that allows users to search, explore, and discover trending movies through a responsive and interactive user interface.
+
+The application integrates external movie APIs and Appwrite services to provide dynamic movie data, trending analytics, and a seamless browsing experience across desktop and mobile devices.
+
+🚀 Features
+🔍 Real-time movie search
+📈 Trending movie section
+🎞️ Dynamic movie cards with posters and details
+⚡ Fast and responsive UI powered by Vite
+☁️ Appwrite backend integration
+📱 Mobile-friendly responsive design
+🎨 Modern UI/UX with clean component architecture
+🔄 API-driven content rendering
+🚨 Error handling and loading states
+🛠️ Technologies Used
+React
+Vite
+JavaScript
+Appwrite
+CSS
+TMDB API
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
